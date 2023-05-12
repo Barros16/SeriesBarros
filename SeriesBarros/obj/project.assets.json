@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trabajos del cole\\SeriesBarros\\SeriesBarros\\SeriesBarros.csproj",
+      "projectUniqueName": "D:\\Trabajos del cole\\git\\SeriesBarros\\SeriesBarros\\SeriesBarros.csproj",
       "projectName": "SeriesBarros",
-      "projectPath": "D:\\Trabajos del cole\\SeriesBarros\\SeriesBarros\\SeriesBarros.csproj",
+      "projectPath": "D:\\Trabajos del cole\\git\\SeriesBarros\\SeriesBarros\\SeriesBarros.csproj",
       "packagesPath": "C:\\Users\\crsba\\.nuget\\packages\\",
-      "outputPath": "D:\\Trabajos del cole\\SeriesBarros\\SeriesBarros\\obj\\",
+      "outputPath": "D:\\Trabajos del cole\\git\\SeriesBarros\\SeriesBarros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crsba\\AppData\\Roaming\\NuGet\\NuGet.Config",
