@@ -1,0 +1,56 @@
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.exe
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.deps.json
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.runtimeconfig.json
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.dll
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.pdb
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.csproj.AssemblyReference.cache
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\App.g.cs
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros_MarkupCompile.cache
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros_MarkupCompile.lref
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.g.resources
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.AssemblyInfoInputs.cache
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.AssemblyInfo.cs
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.csproj.CoreCompileInputs.cache
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.dll
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\refint\SeriesBarros.dll
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.pdb
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.genruntimeconfig.cache
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\ref\SeriesBarros.dll
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\CustomControls\EnlaceDePassword.g.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.exe
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.deps.json
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.runtimeconfig.json
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.dll
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\SeriesBarros.pdb
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.csproj.AssemblyReference.cache
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\CustomControls\EnlaceDePassword.g.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\View\LoginView.g.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\App.g.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros_MarkupCompile.cache
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros_MarkupCompile.lref
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\CustomControls\EnlaceDePassword.baml
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\View\LoginView.baml
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.g.resources
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.AssemblyInfoInputs.cache
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.AssemblyInfo.cs
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.csproj.CoreCompileInputs.cache
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.csproj.CopyComplete
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.dll
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\refint\SeriesBarros.dll
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.pdb
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.genruntimeconfig.cache
+D:\Grado superior 1 año\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\ref\SeriesBarros.dll
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\CustomControls\EnlaceDePassword.baml
+D:\Trabajos del cole\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.csproj.CopyComplete
