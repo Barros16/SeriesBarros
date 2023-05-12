@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/SeriesBarros/obj/Debug/net6.0-windows/SeriesBarros_MarkupCompile.i.lref
+*.vsidx
+/.vs/SeriesBarros/v17/.wsuo
+/.vs/SeriesBarros/FileContentIndex/ddd26cbc-8395-4d0b-9ff8-d15c38c74216.vsidx
+/.vs/SeriesBarros/FileContentIndex/4574face-7b94-4d5e-82ae-8fa8ce0c6179.vsidx
+/.vs/SeriesBarros/FileContentIndex/859406e5-0b81-43c8-858d-23695a50be1e.vsidx
+/.vs/SeriesBarros/FileContentIndex/c25e02bb-063b-449c-bdcc-6523aba52f24.vsidx
