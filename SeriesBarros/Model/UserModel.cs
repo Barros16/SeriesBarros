@@ -8,5 +8,6 @@ namespace SeriesBarros.Model
 {
     public class UserModel
     {
+        //TODO: crear modelo usuario
     }
 }
