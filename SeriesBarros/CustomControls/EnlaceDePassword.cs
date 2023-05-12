@@ -37,6 +37,7 @@ namespace SeriesBarros.CustomControls
 
         private void OnPasswordChanged(object sender, EventArgs e)
         {
+            //password encriptada
             Password = txtPassword.SecurePassword;
         }
     }
