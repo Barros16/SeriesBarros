@@ -61,7 +61,7 @@ namespace SeriesBarros.CustomControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SeriesBarros;V1.0.0.0;component/customcontrols/enlacedepassword.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SeriesBarros;component/customcontrols/enlacedepassword.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\CustomControls\EnlaceDePassword.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

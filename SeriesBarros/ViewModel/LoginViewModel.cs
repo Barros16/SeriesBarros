@@ -1,10 +1,16 @@
-﻿using System;
+﻿using SeriesBarros.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using SeriesBarros.Repositories;
+using System.Net;
+using System.Runtime.CompilerServices;
+using System.Security.Principal;
+using System.Threading;
 
 namespace SeriesBarros.ViewModel
 {
@@ -15,6 +21,8 @@ namespace SeriesBarros.ViewModel
         private SecureString _password;
         private string _errorMsj;
         private bool _isViewVisible = true;
+
+        private IUserRepository _userRepository;
 
         public string Username
         {
@@ -61,6 +69,8 @@ namespace SeriesBarros.ViewModel
 
         public LoginViewModel()
         {
+
+            _userRepository = new RepositorioUsuario();
             LoginCommand = new RelayCommand(ExecuteLoginCommand, CanExecuteLoginCommand);
             RecoverPasswordCommand = new RelayCommand(p=>ExecuteRecoverPassComand("",""));
         }
@@ -82,7 +92,16 @@ namespace SeriesBarros.ViewModel
 
         private void ExecuteLoginCommand(object obj)
         {
-            throw new NotImplementedException();
+            var isValidUser = _userRepository.AuthenticateUser(new NetworkCredential(Username, Password));
+            if (isValidUser)
+            {
+                Thread.CurrentPrincipal = new GenericPrincipal(new GenericIdentity(Username), null);
+                IsViewVisible = false;
+            }
+            else
+            {
+                ErrorMsj = "* Usuario o Contraseña incorrectas";
+            }
         }
 
         private void ExecuteRecoverPassComand(string username, string email)

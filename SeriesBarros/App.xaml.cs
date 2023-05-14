@@ -5,6 +5,8 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using SeriesBarros.View;
+
 
 namespace SeriesBarros
 {
@@ -13,5 +15,6 @@ namespace SeriesBarros
     /// </summary>
     public partial class App : Application
     {
+        var loginView = new LoginView();
     }
 }
