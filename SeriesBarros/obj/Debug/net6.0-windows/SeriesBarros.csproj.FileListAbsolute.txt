@@ -82,3 +82,5 @@ D:\Trabajos del cole\git\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\refi
 D:\Trabajos del cole\git\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.pdb
 D:\Trabajos del cole\git\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\SeriesBarros.genruntimeconfig.cache
 D:\Trabajos del cole\git\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\ref\SeriesBarros.dll
+D:\Trabajos del cole\git\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\View\MainView.g.cs
+D:\Trabajos del cole\git\SeriesBarros\SeriesBarros\obj\Debug\net6.0-windows\View\MainView.baml
